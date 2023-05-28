@@ -18,11 +18,9 @@ const Hero = () => {
             Hi I'm <span className="text-[#915eff]">Austin</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I'm a software engineer based in the Bay Area. I'm passionate about
+            I'm a software engineer who is passionate about
             building products that people want to use. I have fullstack
-            experience creating web and mobile apps. I'm currently looking for a
-            full-time position. I also have experience creating OTT applications
-            for the TV industry, such as for Roku, Amazon Fire, LG, and Samsung.
+            experience creating web and mobile apps, as well as OTT applications for LG, Samsung, Roku, and Amazon Fire.
           </p>
         </div>
       </div>

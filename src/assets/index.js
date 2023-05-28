@@ -29,6 +29,10 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import tv from "./tv.png"
+import moodbot from "./moodbot.png"
+import story from "./story.png"
+import champselector from "./champselector.png"
 
 export {
   logo,
@@ -59,4 +63,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  tv,
+  moodbot,
+  story,
+  champselector
 };
